@@ -26,13 +26,9 @@ How to Build Project
 
 Blog
 ----
-[How to Scan Documents to Google Drive With Dynamic .NET TWAIN][3]
+[How to Upload Scanned Images to Google Drive With Dynamic .NET TWAIN][3]
 
-License
-----
-
-MIT
 
 [1]:https://www.dynamsoft.com/Secure/Register_ClientInfo.aspx?productName=NetTWAIN&from=FromDownload
 [2]:http://www.dynamsoft.com/demo/DWT/Sources/twainds.win64.installer.2.1.3.msi
-[3]:http://www.dynamsoft.com/blog/showcase/scan-documents-to-google-drive/
+[3]:http://www.codepool.biz/how-to-upload-scanned-images-to-google-drive-with-dynamic-net-twain.html
